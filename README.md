@@ -1,1 +1,3 @@
-# MyGitHub editing
+# maven-project
+
+Simple Maven Project
